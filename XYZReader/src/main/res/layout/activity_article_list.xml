@@ -19,6 +19,7 @@
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
             android:paddingBottom="28dp" />
+
     </android.support.v4.widget.SwipeRefreshLayout>
 
     <FrameLayout
@@ -44,6 +45,7 @@
                 android:contentDescription="@string/app_name" />
 
         </android.support.v7.widget.Toolbar>
+
     </FrameLayout>
 
 </FrameLayout>
